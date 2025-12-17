@@ -214,4 +214,3 @@ Muhamad Irfanul Hadi
 ✔ Relational Database\
 ✔ Transaction & Audit Log\
 ✔ Postman Documentation\
-✔ Ready to Submit 🎉
